@@ -2,6 +2,15 @@
 #
 .DS_Store
 
+# IDE
+#
+.vscode/
+
+#expo
+#
+.expo/
+.expo-shared/
+
 # Xcode
 #
 build/
